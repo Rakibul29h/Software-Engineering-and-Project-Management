@@ -1,0 +1,48 @@
+LAB THREAD COUNTER - TEST INPUTS
+
+
+
+Test Cases
+----------
+
+Test Case | Number of Threads | Increments per Thread | Expected Count
+----------|-------------------|------------------------|---------------
+TC1       | 1                 | 1,000                  | 1,000
+TC2       | 2                 | 10,000                 | 20,000
+TC3       | 5                 | 10,000                 | 50,000
+TC4       | 10                | 50,000                 | 500,000
+TC5       | 20                | 50,000                 | 1,000,000
+TC6       | 50                | 50,000                 | 2,500,000
+TC7       | 100               | 50,000                 | 5,000,000
+
+Execution Commands
+
+
+TC1:
+  java YourFirstname_Thread 1 1000 true
+  java YourFirstname_Thread 1 1000 false
+
+TC2:
+  java YourFirstname_Thread 2 10000 true
+  java YourFirstname_Thread 2 10000 false
+
+TC3:
+  java YourFirstname_Thread 5 10000 true
+  java YourFirstname_Thread 5 10000 false
+
+TC4:
+  java YourFirstname_Thread 10 50000 true
+  java YourFirstname_Thread 10 50000 false
+
+TC5:
+  java YourFirstname_Thread 20 50000 true
+  java YourFirstname_Thread 20 50000 false
+
+TC6:
+  java YourFirstname_Thread 50 50000 true
+  java YourFirstname_Thread 50 50000 false
+
+TC7:
+  java YourFirstname_Thread 100 50000 true
+  java YourFirstname_Thread 100 50000 false
+

@@ -1,4 +1,4 @@
-package com.rmart.Backend;
+package com.mediflow.Backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

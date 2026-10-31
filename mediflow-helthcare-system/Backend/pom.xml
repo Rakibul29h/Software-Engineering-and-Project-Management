@@ -39,6 +39,14 @@
 			<artifactId>spring-boot-starter-webmvc</artifactId>
 		</dependency>
 
+		<!-- Source: https://mvnrepository.com/artifact/io.ebean/ebean-jackson-jsonnode -->
+		<dependency>
+			<groupId>io.ebean</groupId>
+			<artifactId>ebean-jackson-jsonnode</artifactId>
+			<version>13.18.0</version>
+			<scope>test</scope>
+		</dependency>
+
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>

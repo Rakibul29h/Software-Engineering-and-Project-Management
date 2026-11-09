@@ -137,20 +137,20 @@ LIMIT 10;
 ## Application Screenshots
 
 ### Welcome Page
-![Welcome Page](<img width="1209" height="712" alt="image" src="https://github.com/user-attachments/assets/e9da9409-89d9-488e-8dbe-faea7be72fa0" />
-)
+<img width="1209" height="712" alt="image" src="https://github.com/user-attachments/assets/e9da9409-89d9-488e-8dbe-faea7be72fa0" />
+
 
 ### Game Page
-![Game Page](<img width="1035" height="894" alt="{CA06A1AC-7137-4E03-B9DE-C22E4B1F5C53}" src="https://github.com/user-attachments/assets/6fc18a2e-1192-4644-90c5-5b47b16008cb" />
-)
+<img width="1035" height="894" alt="{CA06A1AC-7137-4E03-B9DE-C22E4B1F5C53}" src="https://github.com/user-attachments/assets/6fc18a2e-1192-4644-90c5-5b47b16008cb" />
+
 
 ### Result Page
-![Result Page](<img width="1100" height="879" alt="{66C15FE9-7A41-46E2-9DEA-2033DD3021F4}" src="https://github.com/user-attachments/assets/3d1b74c0-b5c5-4a35-a8f8-718463ab792f" />
-)
+<img width="1100" height="879" alt="{66C15FE9-7A41-46E2-9DEA-2033DD3021F4}" src="https://github.com/user-attachments/assets/3d1b74c0-b5c5-4a35-a8f8-718463ab792f" />
+
 
 ### Leaderboard
-![Leaderboard](<img width="1179" height="842" alt="{61EBABD0-8508-4D34-A756-EEA9F5E06C2B}" src="https://github.com/user-attachments/assets/5947d070-aaf8-41f7-af25-3874f9a74f49" />
-)
+<img width="1179" height="842" alt="{61EBABD0-8508-4D34-A756-EEA9F5E06C2B}" src="https://github.com/user-attachments/assets/5947d070-aaf8-41f7-af25-3874f9a74f49" />
+
 
 ## GitHub Project Directory Link
 
